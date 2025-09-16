@@ -14,7 +14,7 @@ Desenvolver uma aplicação Java que gerencia uma lista de funcionários, realiz
 ```bash
 src/
 └── org.mateuzu.teste/
-    ├── Main.java                         # Classe principal que exibe o menu e interage com o serviço
+    ├── Principal.java                         # Classe principal que exibe o menu e interage com o serviço
     ├── model/
     │   ├── Pessoa.java                   # Classe base contendo nome e data de nascimento
     │   └── Funcionario.java              # Subclasse que adiciona salário e função

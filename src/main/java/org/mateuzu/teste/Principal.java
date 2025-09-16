@@ -8,7 +8,7 @@ import java.math.BigDecimal;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Main {
+public class Principal {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int opcao;
