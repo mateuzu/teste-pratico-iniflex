@@ -1,5 +1,5 @@
 # Teste prático - Iniflex
->Solução desenvolvida para o teste técnico proposto pela Projectada, utilizando Java com foco em orientação a objetos e boas práticas de desenvolvimento.
+>Solução desenvolvida para o teste técnico proposto pela **Projedata Informática**, utilizando Java com foco em orientação a objetos e boas práticas de desenvolvimento
 
 
 ## Objetivo do projeto
@@ -19,7 +19,7 @@ src/
     │   ├── Pessoa.java                   # Classe base contendo nome e data de nascimento
     │   └── Funcionario.java              # Subclasse que adiciona salário e função
     ├── service/
-    │   └── FuncionarioService.java      # Contém toda a lógica de negócio e manipulação dos funcionários
+    │   └── FuncionarioService.java      # Contém a lógica de negócio e manipulação dos funcionários
     └── utils/
         └── FormatadorMoeda.java              # Classe utilitária para formatar datas e valores monetários
 ```
